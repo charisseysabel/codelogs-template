@@ -1,50 +1,46 @@
-# codelogs-template
-A template repository for your own codelogs.
+# Codelog
+A repo for my programming journey.
 
 ## What is a codelog?
 
-A codelog is a log of the tasks I am planning on completing, the tasks I have
-completed, the problems I faced, the solutions I found and the resources I
-discovered in the process.
+A codelog is a log of problems I faced, the solutions I found, the resources I
+discovered in the process and any open questions related to my learnings that I want to look up at some point.
 
 ## Why do I log?
 
-I log to keep track of the problems I encounter, so that I can find the
-solution more quickly. I use it as a way to keep track of the resources I found
-in a more orderly and context-dependent way than by simply saving it to my
-bookmarks. I also use it as a notepad, to keep track of what I promised myself
-I would have a look at later. Finally, I use it as a reflection tool, to
-appreciate how much I have progressed and improved.
+Mostly as a form of reflection; to appreciate how much I have progressed and improved. I have mostly been tracking it on a physical notebook and although its a great tool, having my notes in a digital format will allow me to play with this data once I have enough to start with.
 
-## How do I log?
+## System
 
-I use the following template for weekly logs. Feel free to organise them as you
-want within this repository.
-
+Codelog number and date
+```md
+## Codelog #X - XXXX-XX-XX
 ```
-# Codelog #X - XXXX-XX-XX
 
------
-
-## Plan for the day
-
------
-
-## To investigate
-
------
-
-## Learned today
-
------
-
-## Done today
-
------
-
-## Plan for tomorrow
-
------
-
-## Resource list
+All the things that I learned on this day can go here and I can be as detailed as I want.
+```md
+## Learnings
 ```
+
+Mostly questions that may or may not be connected to my learnings that I would like to know more about / investigate down the road.
+```md
+## Open Questions
+```
+
+Things that I cool on the Internetz.
+Doesn't matter if its related to anything.
+```md
+## Hidden gems
+```
+
+### Front Matter
+
+#### Tags
+```md
+- CSS
+- work-related
+```
+
+---
+
+This is my own version of https://github.com/codeidoscope/codelogs-template
