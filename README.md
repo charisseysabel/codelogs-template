@@ -41,6 +41,13 @@ Doesn't matter if its related to anything.
 - work-related
 ```
 
+#### Area
+```md
+- Frontend
+- Backend
+etc...
+```
+
 ---
 
 This is my own version of https://github.com/codeidoscope/codelogs-template
